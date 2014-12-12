@@ -1,0 +1,96 @@
+.nav a {
+  color: rgb(129,73,37);
+  padding: 14px 10px;
+  font-size: 150%;
+  text-transform: uppercase;
+}
+
+.nav li {
+  display: inline;
+
+}
+
+#intro {
+	background-image: url("images/jam.jpg");
+	height: 100vh;
+  	background-repeat: no-repeat;
+  	background-size: cover;
+  	color: #fff;
+  	font-family: Helvetica;
+
+}
+
+#intro-text {
+		margin: 10vh 80vh 0 21vh ;
+		/*border: 5px solid black;*/
+}
+
+.title h1 {
+	color: rgb(209,79,88);
+	text-align: left;
+	margin: 0 0 -5px 0;
+	font-size: 52px;
+ 	/*text-shadow: 0px 0px 15px #B39978;*/
+
+}
+
+.title h3 {
+	color: rgb(147,16,34);
+	font-weight: 200;
+	/*text-shadow: 0px 0px 20px black;*/
+	margin: 0;
+
+}
+
+
+.reason {
+}
+
+.reason .title {
+	padding-left: 50px;
+}
+
+
+
+
+
+
+.jumbotron .container {
+  position: relative;
+  top:100px;
+}
+
+
+.jumbotron p {
+  font-size: 20px;
+  color: #fff;
+}
+
+.neighborhood-guides {
+    background-color: #efefef;
+    border-bottom: 1px solid #dbdbdb;
+}
+
+.neighborhood-guides h2 {
+    color:#393c3d;
+    font-size:24px;
+}
+
+.neighborhood-guides p {
+    font-size: 15px;
+    margin-bottom: 13px;
+}
+
+.learn-more {
+  background-color: #f7f7f7;
+}
+
+.learn-more h3 {
+  font-family: 'Shift', sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.learn-more a {
+  color: #00b0ff;
+}
