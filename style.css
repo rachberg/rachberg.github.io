@@ -16,7 +16,7 @@
   width: 70%;
   background-color: white;
   border-radius: 25px;
-  border: 5px solid #B39978;
+  /*border: 5px solid #B39978;*/
 }
 
 .intro h1 {
@@ -76,7 +76,7 @@ h2 {
 
 
 .nav {
-  border: 5px solid #B39978;
+  /*border: 5px solid #B39978;*/
 }
 
 .nav a {
@@ -100,7 +100,7 @@ h2 {
 	text-align: center;
 	margin: 0 0 20px 0;
 	color:rgb(147,16,34);
-	border: 5px solid #B39978;
+	/*border: 5px solid #B39978;*/
 }
 
 .elsewhere a {
