@@ -27,8 +27,8 @@ kramdown:
 # Site owner
 owner:
   name: Rachel Bergmann
-  avatar: bio-photo.jpg
-  bio: "Describe your self."
+  avatar: face.png
+  bio: "McGill student interested in visual culture, the internet, and social informatics."
   email: rachelbergmann@gmail.com
   disqus-shortname: 
   twitter: #username
