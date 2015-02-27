@@ -1,0 +1,118 @@
+<head>
+	<title>Rachel Bergmann</title>
+	<link rel="shortcut icon" type="image/ico" href="images/target.ico" />
+
+	<meta name="description" content="I am a Cognitive Science undergraduate student interested in visual culture, social informatics, and the web.">
+	<meta name="keywords" content="rachel bergmann">
+
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Bootstrap -->
+
+	<link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+	<link href="style.css" rel="stylesheet" type="text/css">
+
+</head>
+
+<body>	
+    <!--<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>-->
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <!-- <script src="js/bootstrap.min.js"></script> -->
+
+<!--
+	<div class="nav">
+	    <div class="container">
+			<ul class="pull-left">
+	        
+  			<li><a href="#">Rachel Bergmann</a></li>
+	        </ul>
+	        <ul class="pull-right">
+	          <li><a href="#">projects</a></li>
+	          <li><a href="#">about</a></li>
+	          <li><a href="#">blog</a></li>
+	        </ul>
+	    </div>
+	</div>
+	https://wireframe.cc/GgjzGf-->
+
+
+<!-- Screen 1: name, intro, photo, interim -->
+	<div class="section">
+		<div class="intro">
+    
+
+			<div class="text">
+				<h1>Rachel Bergmann</h1>
+				<h3>mcgill student interested in visual culture, the internet, and social informatics</h3>
+
+				<!--<button onclick="myFunction()">Try it</button>-->
+			</div>
+
+			<div class="interim">
+			<h2>check back soon for more!</h2>
+			</div>
+
+			<!--<div class="nav">
+			<ul>
+				<li>test</li>
+				<li>another</li>
+
+				<li id="item1">
+					<div class="circular"></div>
+				</li>
+
+				<li id="item2">
+					<div class="circular"></div>
+				</li>
+
+				<li id="item3">
+					<div class="circular"></div>
+				</li>
+			</ul>
+			</div>-->
+		</div>
+	</div>
+
+
+<!-- Screen 2: footer, elsewhere-->
+	<div class="section">
+		<div class="elsewhere nav">
+			<ul>
+				<li class="fa-lg">
+				<a href="http://www.github.com/rachberg">
+	  			<i class="fa fa-github fa-lg"></i>
+	  			</a>
+				</li>
+
+				<li class="fa-lg">
+				<a href="http://www.linkedin.com/in/rachelbergmann">
+	  			<i class="fa fa-linkedin fa-lg"></i></a>
+				</li>
+
+				<!-- TWITTER-- worth it? <li class="fa-stack fa-lg">
+				<a href="http://www.w3schools.com">
+	  				<i class="fa fa-square-o fa-stack-2x"></i>
+	  				<i class="fa fa-twitter fa-stack-1x"></i>
+	  				</a>
+				</li>
+				-- logo within logo-- work on later. <li class="fa-stack fa-lg">
+	  				<i class="fa fa-bullseye fa-stack-2x"></i>
+	  				<i id="inner-logo" class="fa fa-bullseye fa-stack-lg"></i></a>
+	  			</li>
+	  			<li class="fa-stack fa-lg">
+	  				<i class="fa fa-square-o fa-stack-2x"></i>
+	  				<i class="fa fa-twitter fa-stack-1x"></i>
+				</li>-->
+			</ul>
+		</div>
+
+		<div class="end">
+			<p>image by <a href="http://www.juliabe.com/">julia bereciartu</a>, 2014</p>
+		</div>
+	</div>
+    
+</body>
+</html>
