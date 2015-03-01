@@ -14,19 +14,17 @@
 {% include _navigation.html %}
 
 {% if page.image.feature %}
-  <div class="image-wrap">
-  <img src=
     {% if page.image.feature contains 'http' %}
-      "{{ page.image.feature }}"
+       <div class="featured-image" style="background-image: url('{{ page.image.feature }}')" alt="{{ page.title }} feature image"></div>
     {% else %}
-      "{{ site.url }}/images/{{ page.image.feature }}"
+       <div class="featured-image" style="background-image: url('{{ site.url }}/images/{{ page.image.feature }} ')" alt="{{ page.title }} feature image"></div>
     {% endif %}
-  alt="{{ page.title }} feature image">
+  
   {% if page.image.credit %}
     <span class="image-credit">Credit: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a></span>
   {% endif %}
-  </div><!-- /.image-wrap -->
 {% endif %}
+
 
 <div id="main" role="main">
   <article class="page">
