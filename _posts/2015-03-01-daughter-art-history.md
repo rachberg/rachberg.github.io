@@ -44,8 +44,6 @@ One may highlight appropriation’s cultural heritage through comparing Duchamp�
 Yasumasa Morimura takes past traditions of Western culture and art history and calls them into question by placing himself, a Japanese man, in the role of the female subject. Instead of abiding by the norms of gender and sexuality that existed before the 20th century, he reconstructs them as a foil to contemporary thought regarding sexual differentiation and individual mutability. Morimura manages to satirize and simultaneously create an homage to his source material, questioning the role of representation in contemporary art but still honouring the Masters of the past. Morimura respectfully and boldly explores notions of representation and self-identity in the simultaneous destruction and adulation of these icons that create the fabric of Western culture. Interpretations of art are mutable; they change depending on the beliefs and values of the people viewing them. By interposing himself in the dearest works of the Western anthology of art, Morimura deconstructs former notions of the world’s favourite paintings. By changing the way his audience views the past, he changes the way viewers see the future.
 
 
-Here are some examples of what a post with images might look like. If you want to display two or three images next to each other responsively use `figure` with the appropriate `class`. Each instance of `figure` is auto-numbered and displayed in the caption.
-
 ### Figures (for images or video)
 
 #### One Up
