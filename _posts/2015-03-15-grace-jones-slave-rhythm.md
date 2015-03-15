@@ -9,7 +9,7 @@ image:
   feature: /slave_rhythm/grace_jones_2.png
 ---
 
-In 2011 the Victoria & Albert Museum chose a photo of Grace Jones as the cover of their exhibition Postmodernism: Style and Subversion. In the photograph, the pop diva modelled an outfit that would make Duchamp proud: she wore a multicoloured, dress-like structure composed of 3D scalene triangles, ice-hockey pant legs for sleeves, a pink paper fan and a bold red exclamation point on her forehead. Grace Jones’ style epitomizes the radical visual freedom of the 1980s.
+In 2011 the Victoria & Albert Museum chose a photo of Grace Jones as the cover of their exhibition *Postmodernism: Style and Subversion*. In the photograph, the pop diva modelled an outfit that would make Duchamp proud: she wore a multicoloured, dress-like structure composed of 3D scalene triangles, ice-hockey pant legs for sleeves, a pink paper fan and a bold red exclamation point on her forehead. Grace Jones’ style epitomizes the radical visual freedom of the 1980s.
 
 <figure>
 	<a href="http://www.vam.ac.uk/content/exhibitions/postmodernism/"><img src="/images/slave_rhythm/grace_jones_va.jpg"></a>
@@ -45,7 +45,7 @@ The opening of a song titled 'Slave to the Rhythm' depicts the disfigurement of 
 
 ### A 'Post-Racial' Society
 
-The 'Slave' video exaggerates and reverses racial differences, reinforcing the idea of 'post-racism' from the 1980s. In post-Civil Rights USA and especially in the late 20th century, many Americans had idealized notions about our increasingly globalized— and therefore post-racial— world. Since theoretically all Americans had the same rights, there was no need to focus on issues based solely on class or race. 'Whiteness studies' emerged in universities. Movies appeared with plots transcending race boundaries. Whites as civil rights soldiers, sentimental renderings of cross-racial relations, and 'spectacular fantasies of a post-racist US-based new world order' like Independence Day (1996) peppered pop culture. In 'Slave' there is a montage of white people working in factories and bustling as waiters. Meanwhile Grace Jones sings:
+The 'Slave' video exaggerates and reverses racial differences, reinforcing the idea of 'post-racism' from the 1980s. In post-Civil Rights USA and especially in the late 20th century, many Americans had idealized notions about our increasingly globalized— and therefore post-racial— world. Since theoretically all Americans had the same rights, there was no need to focus on issues based solely on class or race. 'Whiteness studies' emerged in universities. Movies appeared with plots transcending race boundaries. Whites as civil rights soldiers, sentimental renderings of cross-racial relations, and 'spectacular fantasies of a post-racist US-based new world order' like *Independence Day* (1996) peppered pop culture. In 'Slave' there is a montage of white people working in factories and bustling as waiters. Meanwhile Grace Jones sings:
 
 >Work all day, as men who know  
 >Wheels must turn to keep, to keep the flow  
@@ -56,7 +56,7 @@ The 'Slave' video exaggerates and reverses racial differences, reinforcing the i
 
 The repetition and emphasis on productivity mimic a plantation slave song.  
 When hearing these lyrics with visuals of white slaves bustling, Slave  
-exemplifies this post-racialism. In My Name is Forrest, Forrest Gump: Whiteness Studies and the Paradox of Particularity, Robyn Wiegman explores 20th century 'whiteness' through the 1994 film. 'In the liberal white fantasy of Forrest Gump, the descendant of the founder of the Klan can emerge at the end of the twentieth century shorn of his damaged patriarchal inheritance, which is to say that the intimacy of familial, personal relations has now been successfully separated from the past and tied instead to a prototypically American future. In the process, white power and privilege are displaced from any inherent relation— historically, ideologically, politically— to white skin'. 
+exemplifies this post-racialism. In *My Name is Forrest, Forrest Gump: Whiteness Studies and the Paradox of Particularity*, Robyn Wiegman explores 20th century 'whiteness' through the 1994 film. 'In the liberal white fantasy of *Forrest Gump*, the descendant of the founder of the Klan can emerge at the end of the twentieth century shorn of his damaged patriarchal inheritance, which is to say that the intimacy of familial, personal relations has now been successfully separated from the past and tied instead to a prototypically American future. In the process, white power and privilege are displaced from any inherent relation— historically, ideologically, politically— to white skin'. 
 <figure>
 <iframe width="420" height="315" src="https://www.youtube.com/embed/raVFzZZLp3A" frameborder="0" allowfullscreen></iframe>
 </figure>
@@ -76,13 +76,13 @@ The tradition of Blackface was a reality in recent history, so using black-paint
 
 ### 'Slave' and Self-Orientalism
 
-Jones uses ‘Slave’ to nullify the history of orientalization and animalization of the Black female by exotifying herself. One of the shots in 'Slave' is of Grace Jones on her hands and knees, nude and oiled, snarling at the camera from inside a metal cage. There are slabs of raw meat inside with a sign saying 'DO NOT FEED THE ANIMAL'. The music video's director, Jean-Paul Goude, used the photo as the cover of his book *Jungle Fever*.
+Jones uses ‘Slave’ to nullify the history of orientalization and animalization of the Black female by exotifying herself. One of the shots in 'Slave' is of Grace Jones on her hands and knees, nude and oiled, snarling at the camera from inside a metal cage. There are slabs of raw meat inside with a sign saying 'DO NOT FEED THE ANIMAL'. The music video's director, Jean-Paul Goude, used the photo as the cover of his 1982 book *Jungle Fever*:
 
 <figure>
 <a href="http://www.amazon.com/Jungle-Fever-Jean-Paul-Goude/dp/0937950017/ref=la_B0034P5H06_1_1?s=books&ie=UTF8&qid=1426425709&sr=1-1"><img src="/images/slave_rhythm/jones_animal.jpg"></a>
 </figure>
 
-Edouard Said wrote, 'European culture gained in strength and identity by settling itself off against the Orient as a sort of surrogate and even underground self'. Although Said discussed Europe’s orientalizing of Asia, his ideas apply to other exotification. Early on, Europeans defined the Black female as the Other— a hypersexual, inhuman object. When Jones poses as a vicious, caged, naked woman, she acknowledges and embraces the animalization of the Black woman. Is Jones’ blatant exotification tolerable because she is the agent, the artist redefining the images? Yes, it's possible that she displaces the power by owning her self-exotification. It is essential to analyze, however, exactly what agency Grace Jones had. Jones did not write the song; it was instead a team of three white British men. The video was directed by French photographer (and her lover) Jean-Paul Goude, who in 1982 published a coffee table book of Black females called Jungle Fever. We can't say how involved Jones was in the creative process, but we must consider the influence of the white men on her supposed 'agency' before we pardon such exotification.
+Edouard Said wrote, 'European culture gained in strength and identity by settling itself off against the Orient as a sort of surrogate and even underground self'. Although Said discussed Europe’s orientalizing of Asia, his ideas apply to other exotification. Early on, Europeans defined the Black female as the Other— a hypersexual, inhuman object. When Jones poses as a vicious, caged, naked woman, she acknowledges and embraces the animalization of the Black woman. Is Jones’ blatant exotification tolerable because she is the agent, the artist redefining the images? Yes, it's possible that she displaces the power by owning her self-exotification. It is essential to analyze, however, exactly what agency Grace Jones had. Jones did not write the song; it was instead a team of three white British men. The video was directed by French photographer (and her lover) Jean-Paul Goude, who explicitly orientalizes and sexualizes Black women in his book titled *Jungle Fever*. We can't say how involved Jones was in the creative process of her song and music video, but we must consider the influence of the white men on her supposed 'agency' before we pardon such exotification.
 
 ### Conclusion
 
