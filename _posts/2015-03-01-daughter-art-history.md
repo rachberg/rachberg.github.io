@@ -4,7 +4,7 @@ title: "The Daughter of Art History"
 excerpt: "Gender, appropriation, and representation in Yasumasa Morimura's art."
 tags: [art, gender, appropriation, culture]
 comments: true
-published: true
+published: false
 image:
   feature: daughter-art-history-large.jpg
   background-color: rgb(220,220,220)
