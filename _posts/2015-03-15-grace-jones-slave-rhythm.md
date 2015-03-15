@@ -87,3 +87,14 @@ Edouard Said wrote, 'European culture gained in strength and identity by settlin
 ### Conclusion
 
 'Slave to the Rhythm,' with its chaotic creativity and provocative images, simultaneously demonstrates the best and the worst things about postmodernism. The artistic freedom to be irreverent and turn accepted Truths upside down is what we love about it. At the same time, postmodernism tends to be only for those who have enjoyed the fruits of colonialism— the educated elite in a position derived from histories of colonial and racial exploitation. Mocking the traumatic history of colonized communities 'for art’s sake' is problematic. It adds insult to the injustice, insensitivity and total disconnect of the affluent that exists in our 'post-colonial' world. 
+
+<hr>
+
+##### References & Further Reading
+
+<ul class="byline">
+	<li>Bennett, J., <em>Emphatic Vision; Affect, Trauma and Contemporary Art.</em> Stanford University Press, 2005. </li>
+	<li>Kershaw, M., ‘Postcolonialism and Androgyny: The Performance Art of Grace Jones,’ Art Journal, Vol. 56, No. 4, <em>Performance Art: (Some) Theory and (Selected) Practice at the End of This Century,</em> College Art Association, Winter 1997.
+	<li>Said, E., ‘Introduction to Orientalism,’  in G. Gajanan and S. Nair (eds.) <em>Postcolonialisms: An Anthology of Cultural Theory and Criticism.</em> New Brunswick, NJ: Rutgers UP, 2005.</li>
+	<li>Wiegman, R. ‘My Name Is Forrest, Forrest Gump: Whiteness Studies and the Paradox of Particularity,’ in Ella Shohat and Robert Stam (eds.), <em>Multiculturalism, Postcoloniality, and Transnational Media.</em> New Brunswick, NJ: Rutgers UP, 2003.</li>
+</ul>
