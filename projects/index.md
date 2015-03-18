@@ -6,9 +6,11 @@ modified: 2015-03-15
 comments: true
 image:
   feature: elsa_2.png
-  credit: NASA
-  creditlink: http://www.nasa.gov/sites/default/files/iss035e005438.jpg
+  credit: Elsa Gullberg
+  creditlink: 
 ---
+<!-- nasa link for phoenix.png http://www.nasa.gov/sites/default/files/iss035e005438.jpg -->
+
 Here you'll find my past experience in user experience design.
 
 ### Semantria
