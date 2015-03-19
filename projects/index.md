@@ -17,6 +17,22 @@ Here you'll find my past experience in user experience design.
 
 In May-August 2014 I worked as a product intern at <a href="https://semantria.com/">Semantria</a>, a cloud-based Natural Language Processing API startup. As part of a site-wide redesign, I revised and restructured the documentation and all support materials for their <a href="https://semantria.com/support/developer/">API</a> and their <a href="https://semantria.com/support/excel/">Excel plugin</a>.
 
+#### <a href="https://semantria.com/support/">Documentation Architecture</a>
+
+<figure>
+	<a href="https://semantria.com/support" title="Semantria Support UX design"><img src="/images/portfolio/Sem_support.png"></a>
+</figure>
+
+#### <a href="https://semantria.com/support/developer/quickstart">Quickstart Guide</a>
+<figure>
+	<a href="https://semantria.com/support/developer/quickstart" title="Semantria API Quickstart Guide with Python"><img src="/images/portfolio/Sem_quickstart.png"></a>
+</figure>
+
+#### <a href="https://semantria.com/support/developer/docs/configuration">API Documentation</a>
+<figure>
+	<a href="https://semantria.com/support/developer/docs/configuration" title="Semantria API documentation in JSON and XML"><img src="/images/portfolio/Sem_config.png"></a>
+</figure>
+
 <hr>
 
 # Personal Projects
@@ -29,6 +45,6 @@ I taught myself Ruby and bit of a Rails to make a database for films with Native
 
 ### Benefits of Thrifting with Parallax
 
-I built a website about the environmental, ethical, and personal benefits of buying clothes (and other goods) secondhand. I built parallax scrolling using only CSS.
+I built a website about the environmental, ethical, and personal benefits of buying secondhand. I built parallax scrolling for the site using only CSS.
 
 #### More to come!
