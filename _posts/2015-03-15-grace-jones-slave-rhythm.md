@@ -9,7 +9,7 @@ image:
   feature: /slave_rhythm/grace_jones_2.png
 ---
 
-In 2011 the Victoria & Albert Museum chose a photo of Grace Jones as the cover of their exhibition *Postmodernism: Style and Subversion*. In the photograph, the pop diva modelled an outfit that would make Duchamp proud: she wore a multicoloured, dress-like structure composed of 3D scalene triangles, ice-hockey pant legs for sleeves, a pink paper fan and a bold red exclamation point on her forehead. Grace Jones’ style epitomizes the radical visual freedom of the 1980s.
+In 2011 the Victoria & Albert Museum chose a photo of Grace Jones as the cover of their exhibition *Postmodernism: Style and Subversion*. The pop diva models an outfit that would make Duchamp proud: she wears a multicoloured, dress-like structure composed of 3D scalene triangles, ice-hockey pant legs for sleeves, a pink paper fan and a bold red exclamation point on her forehead. Grace Jones’ style epitomizes the radical visual freedom of the 1980s.
 
 <figure>
 	<a href="http://www.vam.ac.uk/content/exhibitions/postmodernism/"><img src="/images/slave_rhythm/grace_jones_va.jpg"></a>
